@@ -2,4 +2,4 @@
 
 ## for chainlits use :
 
-chainlit run <filename>
+chainlit run filename
